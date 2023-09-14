@@ -9,7 +9,7 @@
       "actor_name": "Robert Downey Jr.",
       "salary": 900,
       "powers": ["Powered Armor Suit", "Genius-level Intellect"],
-      "profile_img": "tony_stark.jpg"
+      "profile_img": "https://i.ibb.co/6ZdxJpS/images.jpg"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "actor_name": "Tom Holland",
       "salary": 1100,
       "powers": ["Wall-crawling", "Superhuman Strength", "Spider-sense"],
-      "profile_img": "peter_parker.jpg"
+      "profile_img": "https://i.ibb.co/XxJy86q/tom-holland-replaced-620x330.webp"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "actor_name": "Chris Evans",
       "salary": 950,
       "powers": ["Enhanced Strength", "Shield Mastery"],
-      "profile_img": "steve_rogers.jpg"
+      "profile_img": "https://i.ibb.co/M9dDMP0/movie-avengers-infinity-war-captain-america-steve-rogers-wallpaper-preview.jpg"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "actor_name": "Scarlett Johansson",
       "salary": 1100,
       "powers": ["Martial Arts", "Espionage Skills"],
-      "profile_img": "natasha_romanoff.jpg"
+      "profile_img": "https://i.ibb.co/5kfTkx9/new-mcu-theory-suggests-black-widow-rsquo-s-resurrection1200-1569745360.jpg"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "actor_name": "Chris Hemsworth",
       "salary": 1200,
       "powers": ["Mjolnir", "Superhuman Strength"],
-      "profile_img": "thor_odinson.jpg"
+      "profile_img": "https://i.ibb.co/H2b6d6r/fakta-menarik-di-balik-perubahan-besar-pahlawan-super-thor-220719160105-428.jpg"
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@
       "actor_name": "Mark Ruffalo",
       "salary": 1050,
       "powers": ["Superhuman Strength", "Regeneration"],
-      "profile_img": "bruce_banner.jpg"
+      "profile_img": "https://i.ibb.co/k5k0jxw/images.jpg"
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@
       "actor_name": "Chadwick Boseman",
       "salary": 1190,
       "powers": ["Enhanced Senses", "Vibranium Suit"],
-      "profile_img": "tchalla.jpg"
+      "profile_img": "https://i.ibb.co/Zg5Fj1k/disney-wont-recast-chadwick-boseman-role-black-panther.webp"
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@
       "actor_name": "Elizabeth Olsen",
       "salary": 1000,
       "powers": ["Reality Manipulation", "Telekinesis"],
-      "profile_img": "wanda_maximoff.jpg"
+      "profile_img": "https://i.ibb.co/Zx7zKGP/Wanda-Dr-Strange-Multiverse-Madness-Culture.webp"
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@
       "actor_name": "Benedict Cumberbatch",
       "salary": 1100,
       "powers": ["Mystic Arts", "Time Manipulation"],
-      "profile_img": "stephen_strange.jpg"
+      "profile_img": "https://i.ibb.co/BG3f0WK/doctor-strange-2-poster.webp"
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@
       "actor_name": "Paul Rudd",
       "salary": 700,
       "powers": ["Size Manipulation", "Insect Communication"],
-      "profile_img": "scott_lang.jpg"
+      "profile_img": "https://i.ibb.co/zxCF6Nv/images.jpg"
     },
     {
       "id": 11,
@@ -119,7 +119,7 @@
       "actor_name": "Paul Bettany",
       "salary": 950,
       "powers": ["Density Manipulation", "Energy Projection"],
-      "profile_img": "vision.jpg"
+      "profile_img": "https://i.ibb.co/vm0BYL6/l-intro-1610721164.jpg"
     },
     {
       "id": 12,
@@ -130,29 +130,7 @@
       "actor_name": "Zoe Saldana",
       "salary": 880,
       "powers": ["Master Combatant", "Enhanced Physiology"],
-      "profile_img": "gamora.jpg"
-    },
-    {
-      "id": 13,
-      "name": "Ant-Man",
-      "age": 45,
-      "profession": "Electrical Engineer",
-      "role": "Superhero",
-      "actor_name": "Paul Rudd",
-      "salary": 800,
-      "powers": ["Size Manipulation", "Insect Communication"],
-      "profile_img": "ant_man.jpg"
-    },
-    {
-      "id": 14,
-      "name": "Black Panther",
-      "age": 38,
-      "profession": "King of Wakanda",
-      "role": "Superhero",
-      "actor_name": "Chadwick Boseman",
-      "salary": 1200,
-      "powers": ["Enhanced Senses", "Vibranium Suit"],
-      "profile_img": "black_panther.jpg"
+      "profile_img": "https://i.ibb.co/60SW2Rb/zoe-saldana-gamora-featured.webp"
     },
     {
       "id": 15,
@@ -163,7 +141,7 @@
       "actor_name": "Brie Larson",
       "salary": 1100,
       "powers": ["Superhuman Strength", "Energy Manipulation"],
-      "profile_img": "captain_marvel.jpg"
+      "profile_img": "https://i.ibb.co/L1BX18V/https-i-cdn-tntdrama-com-assets-images-2020-12-Captain-Marvel-1600x900.jpg"
     }
   ]
 }

@@ -9,7 +9,7 @@
         "actor_name": "Tom Hiddleston",
         "salary": 720,
         "powers": ["Illusions", "Shape-shifting"],
-        "profile_img": "loki_laufeyson.jpg"
+        "profile_img": "https://i.ibb.co/FVYbSYt/Loki-laufeyson-Marvel-Studios-Loki-loki-disney-44132028-1920-1080.jpg"
       },
       {
         "id": 14,
@@ -20,7 +20,7 @@
         "actor_name": "Josh Brolin",
         "salary": 980,
         "powers": ["Superhuman Strength", "Reality Manipulation"],
-        "profile_img": "thanos.jpg"
+        "profile_img": "https://i.ibb.co/DbZkLkY/Thanos-wearing-infinity-stones-Photo-Metro-1.jpg"
       },
       {
         "id": 15,
@@ -31,7 +31,7 @@
         "actor_name": "Hugo Weaving",
         "salary": 850,
         "powers": ["Genius-level Intellect", "Advanced Combat"],
-        "profile_img": "red_skull.jpg"
+        "profile_img": "https://i.ibb.co/wY50TSp/nintchdbpict000401703831.webp"
       },
       {
         "id": 16,
@@ -42,7 +42,7 @@
         "actor_name": "Michael Fassbender",
         "salary": 920,
         "powers": ["Magnetism Manipulation", "Metal Control"],
-        "profile_img": "magneto.jpg"
+        "profile_img": "https://i.ibb.co/YRjbHpx/Magneto-featured-image.jpg"
       },
       {
         "id": 17,
@@ -53,7 +53,7 @@
         "actor_name": "Willem Dafoe",
         "salary": 880,
         "powers": ["Enhanced Strength", "Goblin Tech"],
-        "profile_img": "green_goblin.jpg"
+        "profile_img": "https://i.ibb.co/2F8Q2wH/spider-man-villain-green-goblin-explained-jpeg.jpg"
       },
       {
         "id": 18,
@@ -64,7 +64,7 @@
         "actor_name": "Toby Kebbell",
         "salary": 970,
         "powers": ["Genius-level Intellect", "Mystical Abilities"],
-        "profile_img": "doctor_doom.jpg"
+        "profile_img": "https://i.ibb.co/89Fm1wj/Untitled.jpg"
       },
       {
         "id": 19,
@@ -75,7 +75,7 @@
         "actor_name": "Jake Gyllenhaal",
         "salary": 890,
         "powers": ["Illusions", "Holographic Projectors"],
-        "profile_img": "mysterio.jpg"
+        "profile_img": "https://i.ibb.co/cLk6KpJ/images.jpg"
       },
       {
         "id": 20,
@@ -86,7 +86,7 @@
         "actor_name": "Tom Hardy",
         "salary": 950,
         "powers": ["Symbiote Abilities", "Shape-shifting"],
-        "profile_img": "venom.jpg"
+        "profile_img": "https://i.ibb.co/SND3tyP/Venom-FA.webp"
       }
     ]
   }
