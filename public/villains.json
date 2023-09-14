@@ -1,0 +1,93 @@
+{
+    "villains": [
+      {
+        "id": 13,
+        "name": "Loki Laufeyson",
+        "age": 1000,
+        "profession": "God of Mischief",
+        "role": "Villain",
+        "actor_name": "Tom Hiddleston",
+        "salary": 720,
+        "powers": ["Illusions", "Shape-shifting"],
+        "profile_img": "loki_laufeyson.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Thanos",
+        "age": 1000,
+        "profession": "Cosmic Warlord",
+        "role": "Villain",
+        "actor_name": "Josh Brolin",
+        "salary": 980,
+        "powers": ["Superhuman Strength", "Reality Manipulation"],
+        "profile_img": "thanos.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Red Skull",
+        "age": 90,
+        "profession": "Nazi Scientist",
+        "role": "Villain",
+        "actor_name": "Hugo Weaving",
+        "salary": 850,
+        "powers": ["Genius-level Intellect", "Advanced Combat"],
+        "profile_img": "red_skull.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Magneto",
+        "age": 65,
+        "profession": "Master of Magnetism",
+        "role": "Villain",
+        "actor_name": "Michael Fassbender",
+        "salary": 920,
+        "powers": ["Magnetism Manipulation", "Metal Control"],
+        "profile_img": "magneto.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Green Goblin",
+        "age": 50,
+        "profession": "Businessman",
+        "role": "Villain",
+        "actor_name": "Willem Dafoe",
+        "salary": 880,
+        "powers": ["Enhanced Strength", "Goblin Tech"],
+        "profile_img": "green_goblin.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Doctor Doom",
+        "age": 45,
+        "profession": "Monarch",
+        "role": "Villain",
+        "actor_name": "Toby Kebbell",
+        "salary": 970,
+        "powers": ["Genius-level Intellect", "Mystical Abilities"],
+        "profile_img": "doctor_doom.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Mysterio",
+        "age": 45,
+        "profession": "Special Effects Artist",
+        "role": "Villain",
+        "actor_name": "Jake Gyllenhaal",
+        "salary": 890,
+        "powers": ["Illusions", "Holographic Projectors"],
+        "profile_img": "mysterio.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Venom",
+        "age": 30,
+        "profession": "Journalist",
+        "role": "Villain",
+        "actor_name": "Tom Hardy",
+        "salary": 950,
+        "powers": ["Symbiote Abilities", "Shape-shifting"],
+        "profile_img": "venom.jpg"
+      }
+    ]
+  }
+  

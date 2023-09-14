@@ -1,0 +1,30 @@
+{
+    "writers": [
+      {
+        "id": 1,
+        "name": "J.K. Rowling",
+        "salary": 1200
+      },
+      {
+        "id": 2,
+        "name": "George R.R. Martin",
+        "salary": 1100
+      },
+      {
+        "id": 3,
+        "name": "Stephen King",
+        "salary": 1000
+      },
+      {
+        "id": 4,
+        "name": "Jane Austen",
+        "salary": 950
+      },
+      {
+        "id": 5,
+        "name": "Agatha Christie",
+        "salary": 900
+      }
+    ]
+  }
+  

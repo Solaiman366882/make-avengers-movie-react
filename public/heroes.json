@@ -1,0 +1,169 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Tony Stark",
+      "age": 45,
+      "profession": "Genius Inventor",
+      "role": "Superhero",
+      "actor_name": "Robert Downey Jr.",
+      "salary": 900,
+      "powers": ["Powered Armor Suit", "Genius-level Intellect"],
+      "profile_img": "tony_stark.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Peter Parker",
+      "age": 21,
+      "profession": "Photographer",
+      "role": "Superhero",
+      "actor_name": "Tom Holland",
+      "salary": 1100,
+      "powers": ["Wall-crawling", "Superhuman Strength", "Spider-sense"],
+      "profile_img": "peter_parker.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Steve Rogers",
+      "age": 100,
+      "profession": "Super Soldier",
+      "role": "Superhero",
+      "actor_name": "Chris Evans",
+      "salary": 950,
+      "powers": ["Enhanced Strength", "Shield Mastery"],
+      "profile_img": "steve_rogers.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Natasha Romanoff",
+      "age": 35,
+      "profession": "Spy",
+      "role": "Superhero",
+      "actor_name": "Scarlett Johansson",
+      "salary": 1100,
+      "powers": ["Martial Arts", "Espionage Skills"],
+      "profile_img": "natasha_romanoff.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Thor Odinson",
+      "age": 1500,
+      "profession": "God of Thunder",
+      "role": "Superhero",
+      "actor_name": "Chris Hemsworth",
+      "salary": 1200,
+      "powers": ["Mjolnir", "Superhuman Strength"],
+      "profile_img": "thor_odinson.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bruce Banner",
+      "age": 40,
+      "profession": "Scientist",
+      "role": "Superhero",
+      "actor_name": "Mark Ruffalo",
+      "salary": 1050,
+      "powers": ["Superhuman Strength", "Regeneration"],
+      "profile_img": "bruce_banner.jpg"
+    },
+    {
+      "id": 7,
+      "name": "T'Challa",
+      "age": 35,
+      "profession": "King of Wakanda",
+      "role": "Superhero",
+      "actor_name": "Chadwick Boseman",
+      "salary": 1190,
+      "powers": ["Enhanced Senses", "Vibranium Suit"],
+      "profile_img": "tchalla.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wanda Maximoff",
+      "age": 30,
+      "profession": "Avenger",
+      "role": "Superhero",
+      "actor_name": "Elizabeth Olsen",
+      "salary": 1000,
+      "powers": ["Reality Manipulation", "Telekinesis"],
+      "profile_img": "wanda_maximoff.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Stephen Strange",
+      "age": 40,
+      "profession": "Neurosurgeon",
+      "role": "Superhero",
+      "actor_name": "Benedict Cumberbatch",
+      "salary": 1100,
+      "powers": ["Mystic Arts", "Time Manipulation"],
+      "profile_img": "stephen_strange.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Scott Lang",
+      "age": 35,
+      "profession": "Electrical Engineer",
+      "role": "Superhero",
+      "actor_name": "Paul Rudd",
+      "salary": 700,
+      "powers": ["Size Manipulation", "Insect Communication"],
+      "profile_img": "scott_lang.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Vision",
+      "age": 3,
+      "profession": "Synthetic Being",
+      "role": "Superhero",
+      "actor_name": "Paul Bettany",
+      "salary": 950,
+      "powers": ["Density Manipulation", "Energy Projection"],
+      "profile_img": "vision.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Gamora",
+      "age": 30,
+      "profession": "Assassin",
+      "role": "Superhero",
+      "actor_name": "Zoe Saldana",
+      "salary": 880,
+      "powers": ["Master Combatant", "Enhanced Physiology"],
+      "profile_img": "gamora.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ant-Man",
+      "age": 45,
+      "profession": "Electrical Engineer",
+      "role": "Superhero",
+      "actor_name": "Paul Rudd",
+      "salary": 800,
+      "powers": ["Size Manipulation", "Insect Communication"],
+      "profile_img": "ant_man.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Black Panther",
+      "age": 38,
+      "profession": "King of Wakanda",
+      "role": "Superhero",
+      "actor_name": "Chadwick Boseman",
+      "salary": 1200,
+      "powers": ["Enhanced Senses", "Vibranium Suit"],
+      "profile_img": "black_panther.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Captain Marvel",
+      "age": 30,
+      "profession": "Air Force Pilot",
+      "role": "Superhero",
+      "actor_name": "Brie Larson",
+      "salary": 1100,
+      "powers": ["Superhuman Strength", "Energy Manipulation"],
+      "profile_img": "captain_marvel.jpg"
+    }
+  ]
+}
