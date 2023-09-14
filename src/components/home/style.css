@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+img{
+    width: 100%;
+    vertical-align: middle;
+}
+.home{
+    width: 100%;
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(../../assets/background.png);
+    background-size: cover;
+    background-position: fixed;
+    min-height: 100vh;
+}
+.card {
+    width: 100%;
+    border: 1px solid #fafafa;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fafafa;
+}

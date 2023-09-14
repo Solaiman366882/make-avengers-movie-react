@@ -1,12 +1,12 @@
 
 import './App.css'
+import Home from './components/home/home'
 
 function App() {
 
   return (
     <>
-      
-      <h1>Make An Avengers Movie with a budget of $200000</h1>
+      <Home></Home>
     </>
   )
 }
