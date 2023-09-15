@@ -31,6 +31,7 @@ img{
     background: #fafafa;
     display: flex;
     flex-direction: column;
+    position: relative;
 }
 .card-body {
     flex: 1;
@@ -71,8 +72,46 @@ img{
     padding: 15px;
     color: #fff;
     font-weight: 700;
+    border-radius: 8px;
 }
 .card-img img{
     height: 240px;
     object-fit: cover;
+}
+.role {
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    background: #fff;
+    padding: 5px 8px;
+    border-radius: 15px;
+    left: -50px;
+    transform: rotate(-45deg);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    text-align: center;
+}
+.role h4{
+    font-size: 23px;
+    font-weight: bold;
+}
+.side-bar {
+    width: 100%;
+    background: #fafafa;
+    padding: 20px 15px;
+    border-radius: 8px;
+}
+.side-bar .salary,
+.side-bar .actors-name{
+    margin: 20px 0;
+    padding: 15px 10px;
+    border-top: 2px solid rgba(240, 128, 128, 0.253) ;
+    border-bottom: 2px solid rgba(240, 128, 128, 0.253) ;
+}
+.side-bar .actors-name p{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.side-bar .actors-name p:last-child{
+    margin-bottom: 0px;
 }

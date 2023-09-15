@@ -1,7 +1,8 @@
 import PropTypes from'prop-types'
-const Card = ({card}) => {
+const Card = ({card,handleSelectedActors}) => {
 
     const{name,age,profession,role,actor_name,salary,powers,profile_img}=card;
+
 
     return (
         <div className="card">
@@ -22,9 +23,12 @@ const Card = ({card}) => {
                     <h3 className=" font-bold">Power:</h3>
                     {
                         powers.map((power,idx) => <p key={idx}>{power},</p>)
-                        }
+                    }
                 </div>
-                <button className="btn">Select</button>
+                <div className="role">
+                    <h4>{role}</h4>
+                </div>
+                <button className="btn" onClick={() => handleSelectedActors(card)}>Select</button>
             </div>
         </div>
     );
@@ -32,7 +36,8 @@ const Card = ({card}) => {
 
 
 Card.propTypes = {
-    card: PropTypes.object
+    card: PropTypes.object.isRequired,
+    handleSelectedActors:PropTypes.func,
 }
 
 

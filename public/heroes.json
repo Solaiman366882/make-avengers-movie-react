@@ -7,7 +7,7 @@
       "profession": "Genius Inventor",
       "role": "Superhero",
       "actor_name": "Robert Downey Jr.",
-      "salary": 900,
+      "salary": 4000,
       "powers": ["Powered Armor Suit", "Genius-level Intellect"],
       "profile_img": "https://i.ibb.co/6ZdxJpS/images.jpg"
     },
@@ -29,7 +29,7 @@
       "profession": "Super Soldier",
       "role": "Superhero",
       "actor_name": "Chris Evans",
-      "salary": 950,
+      "salary": 2500,
       "powers": ["Enhanced Strength", "Shield Mastery"],
       "profile_img": "https://i.ibb.co/M9dDMP0/movie-avengers-infinity-war-captain-america-steve-rogers-wallpaper-preview.jpg"
     },
@@ -40,14 +40,14 @@
       "profession": "Spy",
       "role": "Superhero",
       "actor_name": "Scarlett Johansson",
-      "salary": 1100,
+      "salary": 1800,
       "powers": ["Martial Arts", "Espionage Skills"],
       "profile_img": "https://i.ibb.co/5kfTkx9/new-mcu-theory-suggests-black-widow-rsquo-s-resurrection1200-1569745360.jpg"
     },
     {
       "id": 5,
       "name": "Thor Odinson",
-      "age": 1500,
+      "age": 2500,
       "profession": "God of Thunder",
       "role": "Superhero",
       "actor_name": "Chris Hemsworth",
@@ -62,7 +62,7 @@
       "profession": "Scientist",
       "role": "Superhero",
       "actor_name": "Mark Ruffalo",
-      "salary": 1050,
+      "salary": 2050,
       "powers": ["Superhuman Strength", "Regeneration"],
       "profile_img": "https://i.ibb.co/k5k0jxw/images.jpg"
     },
