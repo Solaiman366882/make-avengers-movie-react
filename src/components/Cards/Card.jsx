@@ -1,4 +1,4 @@
-import image from"../../assets/background.png"
+import PropTypes from'prop-types'
 const Card = ({card}) => {
 
     const{name,age,profession,role,actor_name,salary,powers,profile_img}=card;
@@ -29,5 +29,11 @@ const Card = ({card}) => {
         </div>
     );
 };
+
+
+Card.propTypes = {
+    card: PropTypes.object
+}
+
 
 export default Card;
