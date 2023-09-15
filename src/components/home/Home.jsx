@@ -16,18 +16,30 @@ const Home = () => {
     },[])
 
     const handleSelectedActors = (actor) => {
-        const newSelectedActors = [...selectedActors,actor];
-        const newSalary = totalSalary + actor.salary;
-        const newRemainingBudget = remainingBudget - actor.salary;
-        setRemainingBudget(newRemainingBudget)
-        setTotalSalary(newSalary)
-        setSelectedActors(newSelectedActors);
-        console.log(selectedActors);
-    }
+            const isExist = selectedActors.find(item => item.id ==actor.id)
+            const newSelectedActors = [...selectedActors,actor];
+            let count = actor.salary;
+            if(isExist){
+                return alert('You have selected this actor');
+            }
+            selectedActors.forEach(item => {
+                count += item.salary;
+            });
+            if(count > 20000){
+                return alert('you are out of budget')
+            }else{
+                const remaining = 20000 - count;
+                setSelectedActors(newSelectedActors);
+                setTotalSalary(count);
+                setRemainingBudget(remaining);
+            }
+
+        }
+
 
     return (
         <div className="home px-3 ">
-            <h1 className=" text-4xl">Make An Avengers Movie with a budget of $200000</h1>
+            <h1 className=" text-4xl py-8">Make An Avengers Movie with a budget of $20000</h1>
             <main className="mx-auto max-w-screen-xl md:grid md:grid-cols-3 gap-4">
                 <Cards
                  allActors={allActors}

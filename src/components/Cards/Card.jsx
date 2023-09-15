@@ -14,10 +14,10 @@ const Card = ({card,handleSelectedActors}) => {
                     <h2 className="">{name}</h2>
                 </div>
                 <div className="details grid grid-cols-2 gap-2">
-                    <p className="age">Age: {age}</p>
-                    <p className="profession">Prof:{profession}</p>
-                    <p className="salary">Salary:{salary}</p>
-                    <p className="actor">Actor:{actor_name}</p>
+                    <p className="age">Age : {age}</p>
+                    <p className="profession">Prof : {profession}</p>
+                    <p className="salary">Salary: {salary}$</p>
+                    <p className="actor">Actor : {actor_name}</p>
                 </div>
                 <div className="powers">
                     <h3 className=" font-bold">Power:</h3>

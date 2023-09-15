@@ -6,7 +6,7 @@ const Sidebar = ({selectedActors,totalSalary,remainingBudget}) => {
     return (
         <div className='side-bar'>
             <div className="remaining-budget">
-                <h2>Remaining Budget : {remainingBudget}</h2>
+                <h2>Remaining Budget : {remainingBudget} $</h2>
             </div>
             <h1>Total Actors:{selectedActors.length}</h1>
             <div className="actors-name bg-white">
@@ -15,7 +15,7 @@ const Sidebar = ({selectedActors,totalSalary,remainingBudget}) => {
                 }
             </div>
             <div className="salary bg-white">
-                <h2>Total Salary:{totalSalary}</h2>
+                <h2>Total Salary : {totalSalary} $</h2>
             </div>
         </div>
     );

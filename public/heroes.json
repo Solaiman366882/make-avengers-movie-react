@@ -18,7 +18,7 @@
       "profession": "Photographer",
       "role": "Superhero",
       "actor_name": "Tom Holland",
-      "salary": 1100,
+      "salary": 1900,
       "powers": ["Wall-crawling", "Superhuman Strength", "Spider-sense"],
       "profile_img": "https://i.ibb.co/XxJy86q/tom-holland-replaced-620x330.webp"
     },
@@ -84,7 +84,7 @@
       "profession": "Avenger",
       "role": "Superhero",
       "actor_name": "Elizabeth Olsen",
-      "salary": 1000,
+      "salary": 1200,
       "powers": ["Reality Manipulation", "Telekinesis"],
       "profile_img": "https://i.ibb.co/Zx7zKGP/Wanda-Dr-Strange-Multiverse-Madness-Culture.webp"
     },
@@ -95,7 +95,7 @@
       "profession": "Neurosurgeon",
       "role": "Superhero",
       "actor_name": "Benedict Cumberbatch",
-      "salary": 1100,
+      "salary": 2800,
       "powers": ["Mystic Arts", "Time Manipulation"],
       "profile_img": "https://i.ibb.co/BG3f0WK/doctor-strange-2-poster.webp"
     },
@@ -106,7 +106,7 @@
       "profession": "Electrical Engineer",
       "role": "Superhero",
       "actor_name": "Paul Rudd",
-      "salary": 700,
+      "salary": 1200,
       "powers": ["Size Manipulation", "Insect Communication"],
       "profile_img": "https://i.ibb.co/zxCF6Nv/images.jpg"
     },
@@ -117,7 +117,7 @@
       "profession": "Synthetic Being",
       "role": "Superhero",
       "actor_name": "Paul Bettany",
-      "salary": 950,
+      "salary": 1050,
       "powers": ["Density Manipulation", "Energy Projection"],
       "profile_img": "https://i.ibb.co/vm0BYL6/l-intro-1610721164.jpg"
     },
@@ -128,7 +128,7 @@
       "profession": "Assassin",
       "role": "Superhero",
       "actor_name": "Zoe Saldana",
-      "salary": 880,
+      "salary": 1280,
       "powers": ["Master Combatant", "Enhanced Physiology"],
       "profile_img": "https://i.ibb.co/60SW2Rb/zoe-saldana-gamora-featured.webp"
     },
@@ -139,7 +139,7 @@
       "profession": "Air Force Pilot",
       "role": "Superhero",
       "actor_name": "Brie Larson",
-      "salary": 1100,
+      "salary": 1700,
       "powers": ["Superhuman Strength", "Energy Manipulation"],
       "profile_img": "https://i.ibb.co/L1BX18V/https-i-cdn-tntdrama-com-assets-images-2020-12-Captain-Marvel-1600x900.jpg"
     }
